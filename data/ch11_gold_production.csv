@@ -1,0 +1,15 @@
+iso3,country,gold_t,year,source
+GHA,Ghana,150,2025,USGS MCS 2026 via Our World in Data
+UZB,Uzbekistan,130,2025,USGS MCS 2026 via Our World in Data
+MLI,Mali,70,2024,USGS/BGS via Our World in Data
+BFA,Burkina Faso,60,2024,USGS/BGS via Our World in Data
+TZA,Tanzania,60,2024,USGS/BGS via Our World in Data
+ARG,Argentina,39.05,2023,USGS/BGS via Our World in Data
+ZWE,Zimbabwe,32.13,2023,USGS/BGS via Our World in Data
+KGZ,Kyrgyz Republic,21.4,2023,USGS/BGS via Our World in Data
+MRT,Mauritania,20.13,2023,USGS/BGS via Our World in Data
+RWA,Rwanda,13.93,2023,USGS/BGS via Our World in Data
+NAM,Namibia,9.8,2023,USGS/BGS via Our World in Data
+ARM,Armenia,0.92,2023,USGS/BGS via Our World in Data
+UGA,Uganda,0.01,2023,USGS/BGS via Our World in Data
+BLR,Belarus,0,2023,not listed as a producer
