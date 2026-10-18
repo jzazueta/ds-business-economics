@@ -1,101 +1,101 @@
-item,cik,accession,rf_order,evidence_hand,outflow_risk_hand
-1,798941,0000798941-24-000018,54,,False
-2,1212545,0001212545-24-000092,5,,False
-3,1564618,0001564618-23-000029,8,,False
-4,1068851,0000950170-24-022171,35,,False
-5,857855,0000857855-24-000010,1,"In addition, larger institutions may have the advantage of being perceived by the public as more secure in times of financial uncertainty as evidenced by the migration of deposits to large banks in response to recent bank failures.",True
-6,36377,0001558370-23-002048,31,,False
-7,7789,0000007789-23-000013,21,,False
-8,203596,0000950170-24-020323,7,,False
-9,715072,0000715072-24-000042,10,,False
-10,1050441,0001050441-24-000053,8,"Timely access to liquidity is essential to our business, and being able to meet obligations as they come due and pay deposits when they are withdrawn is critical to ongoing operations. If we are unable to meet our payment obligations on a daily basis, we may be subject to being placed into receivership, regardless of our capital levels.",True
-11,1265131,0001558370-24-001160,31,,False
-12,857855,0000857855-23-000005,29,,False
-13,1050441,0001050441-24-000053,36,,False
-14,801337,0000801337-24-000007,23,"In response to the failures of Silicon Valley Bank, Signature Bank, and First Republic Bank, many large depositors across the industry withdrew deposits in excess of the applicable deposit insurance limits and deposited these funds in other financial institutions.",True
-15,860413,0000860413-24-000016,9,,False
-16,828944,0001628280-23-005573,21,,False
-17,875357,0000875357-23-000009,9,,False
-18,73124,0000073124-23-000049,2,,False
-19,90498,0001628280-24-007263,21,,False
-20,1504008,0001504008-23-000007,16,Our access to liquidity in the form of deposits may also be affected by the liquidity needs of our depositors and by competition for deposits in our primary markets.,True
-21,1810546,0001628280-23-005001,46,,False
-22,1331520,0001331520-24-000080,5,,False
-23,1212545,0001212545-24-000092,1,"A worsening of business and economic conditions generally or specifically in the principal markets in which we conduct business could have adverse effects, including the following: a decrease in deposit balances or the demand for loans and other products and services we offer;",True
-24,946673,0000946673-24-000008,24,,False
-25,1028918,0001028918-23-000015,7,,False
-26,36029,0000950170-23-003864,37,,False
-27,1015328,0001015328-24-000083,40,,False
-28,1212545,0001212545-23-000093,1,,False
-29,1430723,0001171843-23-001247,16,,False
-30,798941,0000798941-23-000017,6,,False
-31,1504008,0001504008-24-000006,17,,False
-32,46195,0000950170-24-023196,5,,False
-33,723188,0001410578-24-000095,13,,False
-34,910073,0000910073-24-000077,15,,False
-35,1473844,0001473844-24-000010,10,,False
-36,314489,0000314489-23-000010,29,,False
-37,1488813,0001488813-23-000012,19,,False
-38,1810546,0001628280-24-006922,66,,False
-39,203596,0000950170-23-004507,15,,False
-40,91576,0000091576-23-000026,23,,False
-41,776901,0000776901-24-000069,36," If the Company is unable to compete effectively, it may lose market share or fail to maintain its market share, and income generated from loans, deposits, and other financial products may decline.",True
-42,28412,0000028412-24-000185,5,,False
-43,46195,0000950170-24-023196,11,,False
-44,1504008,0001504008-23-000007,31,,False
-45,1068851,0000950170-24-022171,17,,False
-46,883948,0000883948-23-000027,22,,False
-47,1501570,0001501570-23-000068,15,,False
-48,723188,0001410578-24-000095,12,,False
-49,36377,0001558370-23-002048,23,,False
-50,798941,0000798941-24-000018,56,,False
-51,40729,0000040729-23-000005,5,,False
-52,801337,0000801337-24-000007,36,,False
-53,1025835,0001025835-23-000022,25,,False
-54,811589,0000811589-23-000011,17,,False
-55,707179,0000707179-24-000006,20,,False
-56,1265131,0001558370-23-001524,29,,False
-57,35527,0000035527-23-000122,26,,False
-58,7789,0000007789-24-000009,25,,False
-59,715072,0000715072-23-000054,10,,False
-60,37808,0000037808-24-000006,34,,False
-61,1723596,0001723596-23-000093,21,,False
-62,1068851,0000950170-24-022171,16," As a result, customers may choose to maintain deposits with larger financial institutions or invest in higher yielding short-term fixed income securities, all of which could materially adversely impact the Company’s liquidity, loan funding capacity, net interest margin, capital and results of operations.",True
-63,203596,0000950170-24-020323,14,,False
-64,1025835,0001025835-23-000022,9,,False
-65,1025835,0001025835-23-000022,35,,False
-66,101382,0000950170-24-018456,12,,False
-67,1169770,0001169770-23-000021,30,,False
-68,1068851,0000950170-24-022171,15,"The Company’s deposit accounts may decrease in the future, and any such decrease could have an adverse impact on the Company’s sources of funding, which impact could be material",True
-69,719739,0000719739-23-000021,7,,False
-70,776901,0000776901-24-000069,38,,False
-71,1649749,0001649749-24-000063,34,,False
-72,712534,0000712534-23-000067,5,,False
-73,1488813,0001488813-24-000010,33,"The Company’s deposit accounts may decrease in the future, and any such decrease could have an adverse impact on the Company’s sources of funding, which impact could be material",True
-74,776901,0000776901-24-000069,3,"These events occurred during a period of rapidly rising interest rates which, among other things, has resulted in increased unrealized losses on certain investment securities and increased competition for bank deposits and may increase the risk of a potential recession.",True
-75,37808,0000037808-23-000005,8," If we are unable to attract and maintain sufficient levels of deposits and customer repurchase agreements to fund our loan growth and liquidity objectives, we may be subject to paying higher funding costs by raising interest rates that are paid on deposits and customer repurchase agreements or cause us to source funds from third-party providers which may be higher cost funding.",True
-76,1212545,0001212545-24-000092,23,"Likewise, any loss of or decline in the credit rating assigned to us could impair our ability to attract deposits or to obtain other funding sources, or increase our cost of funding.",True
-77,354647,0000950170-23-005167,9,,False
-78,1564618,0001564618-24-000025,34,"The Company relies on customer deposits as a significant source of funding. Competition among U.S. banks for customer deposits is intense, and may increase the cost of deposits or prevent new deposits, and may otherwise negatively affect the Company’s ability to grow its deposit base.",True
-79,1471265,0001471265-24-000009,46,These deposits may be more volatile than other deposits.,True
-80,857855,0000857855-23-000005,28,"Recently, we have increased our reliance on secondary sources of liquidity to meet growth in loans, deposit withdrawal demands and otherwise fund operations and we expect to continue to use secondary sources in the near-term.",True
-81,798941,0000798941-23-000017,2,,False
-82,1115055,0001115055-23-000013,6,"We primarily seek to fund our loan growth through stable, core deposits, but at times our ability to attract core deposits in amounts sufficient to fund our loan growth has been limited by competitive pressures in our markets, general economic conditions, and our business model that focuses principally on serving small to medium-sized businesses and their owners rather than a broad retail distribution strategy.",True
-83,764038,0001558370-23-002028,41,,False
-84,1488813,0001488813-23-000012,28,Our customers may withdraw deposits to ensure that their deposits with us are fully insured and may place excess amounts in other institutions or make investments that are perceived as being more secure and/or higher yielding.,True
-85,28412,0000028412-23-000094,5,"Comerica’s liquidity and ability to fund and run its business could be materially adversely affected by a variety of conditions and factors, including financial and credit market disruptions and volatility, a lack of market or customer confidence in financial markets in general, or deposit competition based on interest rates, which may result in a loss of customer deposits or outflows of cash or collateral and/or adversely affect Comerica's ability to access capital markets on favorable terms.",True
-86,857855,0000857855-24-000010,28,"Deposit levels may be affected by several factors, including rates paid by competitors, general interest rate levels, returns available to customers on alternative investments, general economic and market conditions, customer concerns about the safety and soundness of our bank, whether real or perceived, or the U.S. banking system in general and other factors. Loan repayments are a relatively stable source of funds but are subject to the borrowers’ ability to repay loans, which can be adversely affected by a number of factors including changes in general economic conditions, adverse trends or events affecting business industry groups or specific businesses, declines in real estate values or markets, business closings or lay-offs, inclement weather, natural disasters and other factors. Furthermore, loans generally are not readily convertible to cash.",True
-87,860413,0000860413-23-000045,21," Adverse events or circumstances could impact the recoverability of these intangible assets including loss of core deposits, significant losses of customer accounts and/or balances, increased competition or adverse changes in the economy.",True
-88,1102112,0001628280-23-005257,16,,False
-89,920112,0000920112-24-000026,19,"The competition for these deposits has increased dramatically in the last year, and our deposit levels might fall, or our cost of deposits may significantly increase, if the total supply of deposits decreases due to economic events, or if competition increases to attract deposits, either of which could have an adverse effect on our financial position, results of operations and liquidity.",True
-90,776901,0000776901-24-000069,15,"In addition, the Company may not be successful in mitigating deposit erosion or loan quality deterioration at acquired institutions.",True
-91,719739,0000719739-23-000021,30,,False
-92,846901,0000846901-23-000002,28,,False
-93,846901,0000846901-24-000002,31,"Deposit balances can decrease when customers perceive alternative investments as providing a better risk adjusted return, which are strongly influenced by such",True
-94,1504008,0001504008-24-000006,1,,False
-95,49196,0000049196-23-000020,7,"While we make significant efforts to consider and plan for hypothetical disruptions in our deposit funding, market-related, geopolitical, or other events could impact the liquidity derived from deposits.",True
-96,1169770,0001628280-24-007933,49,,False
-97,1430723,0001171843-23-001247,32,,False
-98,887343,0000887343-24-000089,20," If the Company’s competitors raise the interest rates they pay on deposits, the Company’s funding costs may increase, either because the Company raises the interest rates it pays on deposits to avoid losing deposits to competitors or because the Company loses deposits to competitors and must rely on more expensive sources of funding.",True
-99,801337,0000801337-23-000013,22,"The continued availability of this supply of deposits depends on customer willingness to maintain deposit balances with banks in general and us in particular, as well as the continued inflow of deposits for new and existing customers.",True
-100,887343,0000887343-23-000072,24,,False
+item,cik,accession,rf_order,outflow_risk_hand_v1,outflow_risk_hand_v2,outflow_risk_final
+1,798941,0000798941-24-000018,54,False,False,False
+2,1212545,0001212545-24-000092,5,False,False,False
+3,1564618,0001564618-23-000029,8,False,False,False
+4,1068851,0000950170-24-022171,35,False,False,False
+5,857855,0000857855-24-000010,1,True,True,False
+6,36377,0001558370-23-002048,31,False,False,False
+7,7789,0000007789-23-000013,21,False,False,False
+8,203596,0000950170-24-020323,7,False,False,False
+9,715072,0000715072-24-000042,10,False,False,False
+10,1050441,0001050441-24-000053,8,True,False,False
+11,1265131,0001558370-24-001160,31,False,False,False
+12,857855,0000857855-23-000005,29,False,False,False
+13,1050441,0001050441-24-000053,36,False,False,False
+14,801337,0000801337-24-000007,23,True,True,True
+15,860413,0000860413-24-000016,9,False,False,False
+16,828944,0001628280-23-005573,21,False,False,False
+17,875357,0000875357-23-000009,9,False,False,False
+18,73124,0000073124-23-000049,2,False,False,False
+19,90498,0001628280-24-007263,21,False,True,False
+20,1504008,0001504008-23-000007,16,True,True,True
+21,1810546,0001628280-23-005001,46,False,False,True
+22,1331520,0001331520-24-000080,5,False,False,False
+23,1212545,0001212545-24-000092,1,True,True,False
+24,946673,0000946673-24-000008,24,False,True,True
+25,1028918,0001028918-23-000015,7,False,True,True
+26,36029,0000950170-23-003864,37,False,False,False
+27,1015328,0001015328-24-000083,40,False,False,False
+28,1212545,0001212545-23-000093,1,False,False,False
+29,1430723,0001171843-23-001247,16,False,False,False
+30,798941,0000798941-23-000017,6,False,False,False
+31,1504008,0001504008-24-000006,17,False,False,True
+32,46195,0000950170-24-023196,5,False,False,False
+33,723188,0001410578-24-000095,13,False,False,True
+34,910073,0000910073-24-000077,15,False,False,False
+35,1473844,0001473844-24-000010,10,False,False,False
+36,314489,0000314489-23-000010,29,False,False,False
+37,1488813,0001488813-23-000012,19,False,False,False
+38,1810546,0001628280-24-006922,66,False,False,False
+39,203596,0000950170-23-004507,15,False,False,False
+40,91576,0000091576-23-000026,23,False,False,False
+41,776901,0000776901-24-000069,36,True,True,False
+42,28412,0000028412-24-000185,5,False,False,True
+43,46195,0000950170-24-023196,11,False,False,False
+44,1504008,0001504008-23-000007,31,False,False,False
+45,1068851,0000950170-24-022171,17,False,False,False
+46,883948,0000883948-23-000027,22,False,False,False
+47,1501570,0001501570-23-000068,15,False,False,False
+48,723188,0001410578-24-000095,12,False,False,False
+49,36377,0001558370-23-002048,23,False,True,False
+50,798941,0000798941-24-000018,56,False,False,False
+51,40729,0000040729-23-000005,5,False,False,False
+52,801337,0000801337-24-000007,36,False,False,False
+53,1025835,0001025835-23-000022,25,False,False,False
+54,811589,0000811589-23-000011,17,False,False,False
+55,707179,0000707179-24-000006,20,False,False,False
+56,1265131,0001558370-23-001524,29,False,False,False
+57,35527,0000035527-23-000122,26,False,False,False
+58,7789,0000007789-24-000009,25,False,False,False
+59,715072,0000715072-23-000054,10,False,False,False
+60,37808,0000037808-24-000006,34,False,False,False
+61,1723596,0001723596-23-000093,21,False,False,False
+62,1068851,0000950170-24-022171,16,True,True,True
+63,203596,0000950170-24-020323,14,False,False,False
+64,1025835,0001025835-23-000022,9,False,False,False
+65,1025835,0001025835-23-000022,35,False,False,False
+66,101382,0000950170-24-018456,12,False,False,False
+67,1169770,0001169770-23-000021,30,False,False,False
+68,1068851,0000950170-24-022171,15,True,True,True
+69,719739,0000719739-23-000021,7,False,False,True
+70,776901,0000776901-24-000069,38,False,False,False
+71,1649749,0001649749-24-000063,34,False,False,True
+72,712534,0000712534-23-000067,5,False,True,False
+73,1488813,0001488813-24-000010,33,True,True,True
+74,776901,0000776901-24-000069,3,True,True,True
+75,37808,0000037808-23-000005,8,True,True,True
+76,1212545,0001212545-24-000092,23,True,True,False
+77,354647,0000950170-23-005167,9,False,False,False
+78,1564618,0001564618-24-000025,34,True,True,True
+79,1471265,0001471265-24-000009,46,True,True,True
+80,857855,0000857855-23-000005,28,True,True,True
+81,798941,0000798941-23-000017,2,False,False,False
+82,1115055,0001115055-23-000013,6,True,True,False
+83,764038,0001558370-23-002028,41,False,False,False
+84,1488813,0001488813-23-000012,28,True,True,True
+85,28412,0000028412-23-000094,5,True,True,True
+86,857855,0000857855-24-000010,28,True,True,True
+87,860413,0000860413-23-000045,21,True,True,False
+88,1102112,0001628280-23-005257,16,False,False,True
+89,920112,0000920112-24-000026,19,True,True,True
+90,776901,0000776901-24-000069,15,True,True,False
+91,719739,0000719739-23-000021,30,False,False,False
+92,846901,0000846901-23-000002,28,False,False,False
+93,846901,0000846901-24-000002,31,True,True,True
+94,1504008,0001504008-24-000006,1,False,False,False
+95,49196,0000049196-23-000020,7,True,True,True
+96,1169770,0001628280-24-007933,49,False,False,False
+97,1430723,0001171843-23-001247,32,False,False,False
+98,887343,0000887343-24-000089,20,True,True,True
+99,801337,0000801337-23-000013,22,True,True,True
+100,887343,0000887343-23-000072,24,False,False,False
