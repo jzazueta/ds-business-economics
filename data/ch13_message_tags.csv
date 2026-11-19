@@ -1,0 +1,501 @@
+message_id,reason
+M00020,setup
+M00049,setup
+M00061,outage
+M00084,praise
+M00110,slow internet
+M00176,setup
+M00181,plan change
+M00199,slow internet
+M00203,price
+M00217,moving
+M00246,plan change
+M00249,slow internet
+M00268,plan change
+M00325,setup
+M00335,slow internet
+M00350,slow internet
+M00365,price
+M00369,setup
+M00396,moving
+M00406,price
+M00423,slow internet
+M00437,plan change
+M00452,plan change
+M00454,moving
+M00457,plan change
+M00489,setup
+M00492,slow internet
+M00514,setup
+M00524,setup
+M00550,slow internet
+M00552,slow internet
+M00580,setup
+M00585,setup
+M00633,praise
+M00639,slow internet
+M00640,setup
+M00641,moving
+M00643,slow internet
+M00657,price
+M00669,moving
+M00676,outage
+M00732,setup
+M00736,slow internet
+M00765,praise
+M00778,price
+M00787,price
+M00792,setup
+M00794,setup
+M00798,setup
+M00815,price
+M00828,setup
+M00831,price
+M00842,slow internet
+M00905,moving
+M00913,price
+M00947,plan change
+M00962,setup
+M00986,setup
+M01024,outage
+M01030,praise
+M01038,plan change
+M01064,setup
+M01071,slow internet
+M01107,slow internet
+M01109,price
+M01129,price
+M01140,slow internet
+M01144,praise
+M01163,plan change
+M01196,slow internet
+M01239,outage
+M01250,outage
+M01251,outage
+M01286,outage
+M01308,slow internet
+M01336,outage
+M01343,outage
+M01349,price
+M01360,outage
+M01362,moving
+M01401,outage
+M01446,price
+M01461,outage
+M01477,outage
+M01493,outage
+M01494,outage
+M01505,setup
+M01559,outage
+M01568,setup
+M01606,outage
+M01633,outage
+M01672,outage
+M01710,outage
+M01711,outage
+M01721,outage
+M01740,plan change
+M01755,moving
+M01780,outage
+M01795,outage
+M01833,price
+M01837,outage
+M01850,slow internet
+M01893,outage
+M01901,praise
+M01910,plan change
+M01911,praise
+M01912,slow internet
+M01924,price
+M01928,outage
+M01929,slow internet
+M01930,setup
+M01934,outage
+M01937,outage
+M01970,outage
+M02024,praise
+M02031,moving
+M02077,slow internet
+M02097,moving
+M02105,praise
+M02126,outage
+M02137,slow internet
+M02138,outage
+M02149,slow internet
+M02176,price
+M02204,outage
+M02218,setup
+M02244,setup
+M02265,praise
+M02279,outage
+M02286,outage
+M02353,plan change
+M02375,slow internet
+M02419,price
+M02429,praise
+M02443,outage
+M02444,price
+M02458,setup
+M02468,slow internet
+M02518,moving
+M02584,plan change
+M02590,outage
+M02592,setup
+M02609,setup
+M02628,plan change
+M02645,setup
+M02667,price
+M02670,slow internet
+M02751,slow internet
+M02756,moving
+M02789,moving
+M02793,price
+M02800,plan change
+M02843,praise
+M02846,setup
+M02848,outage
+M02886,plan change
+M02904,slow internet
+M02928,moving
+M02934,slow internet
+M02939,price
+M02954,praise
+M02955,slow internet
+M02963,plan change
+M02992,praise
+M03001,plan change
+M03006,price
+M03009,plan change
+M03042,setup
+M03058,price
+M03064,setup
+M03067,plan change
+M03116,setup
+M03124,setup
+M03153,slow internet
+M03160,price
+M03172,moving
+M03197,setup
+M03216,setup
+M03225,praise
+M03261,billing error
+M03304,billing error
+M03329,plan change
+M03330,billing error
+M03345,praise
+M03347,billing error
+M03391,moving
+M03426,billing error
+M03448,billing error
+M03453,price
+M03460,billing error
+M03490,plan change
+M03497,price
+M03501,billing error
+M03531,billing error
+M03575,setup
+M03590,billing error
+M03635,slow internet
+M03681,plan change
+M03689,billing error
+M03716,slow internet
+M03746,billing error
+M03748,billing error
+M03750,slow internet
+M03756,billing error
+M03759,price
+M03802,setup
+M03815,billing error
+M03821,slow internet
+M03864,billing error
+M03883,billing error
+M03914,billing error
+M03917,plan change
+M03920,plan change
+M03931,moving
+M03941,billing error
+M03964,plan change
+M03990,outage
+M04002,billing error
+M04011,billing error
+M04013,billing error
+M04030,billing error
+M04035,plan change
+M04038,plan change
+M04049,price
+M04060,billing error
+M04067,slow internet
+M04068,outage
+M04079,billing error
+M04085,praise
+M04101,price
+M04116,billing error
+M04121,moving
+M04131,outage
+M04134,billing error
+M04163,praise
+M04171,outage
+M04178,billing error
+M04207,billing error
+M04214,billing error
+M04236,billing error
+M04274,outage
+M04279,billing error
+M04299,setup
+M04301,billing error
+M04308,billing error
+M04310,moving
+M04315,plan change
+M04331,billing error
+M04340,billing error
+M04372,price
+M04425,setup
+M04471,slow internet
+M04520,outage
+M04610,plan change
+M04637,price
+M04657,plan change
+M04664,billing error
+M04672,slow internet
+M04675,plan change
+M04682,billing error
+M04702,billing error
+M04714,price
+M04717,billing error
+M04734,price
+M04811,slow internet
+M04842,billing error
+M04852,plan change
+M04860,billing error
+M04875,billing error
+M04877,slow internet
+M04879,price
+M04894,slow internet
+M04900,price
+M04906,billing error
+M04914,billing error
+M04916,plan change
+M04917,slow internet
+M04919,price
+M04925,billing error
+M04930,billing error
+M04951,price
+M04962,setup
+M04967,price
+M04979,moving
+M04987,price
+M04998,billing error
+M05042,billing error
+M05059,billing error
+M05062,moving
+M05066,moving
+M05088,slow internet
+M05090,plan change
+M05146,setup
+M05149,moving
+M05152,plan change
+M05170,billing error
+M05189,outage
+M05221,plan change
+M05246,slow internet
+M05247,price
+M05250,price
+M05257,price
+M05264,slow internet
+M05280,price
+M05307,outage
+M05308,outage
+M05313,price
+M05330,outage
+M05350,plan change
+M05365,moving
+M05376,setup
+M05380,plan change
+M05385,setup
+M05396,billing error
+M05400,plan change
+M05430,billing error
+M05431,price
+M05520,setup
+M05521,price
+M05525,price
+M05550,slow internet
+M05567,price
+M05570,plan change
+M05583,setup
+M05601,price
+M05621,plan change
+M05643,praise
+M05666,moving
+M05670,competitor offer
+M05684,moving
+M05709,praise
+M05739,outage
+M05746,slow internet
+M05778,praise
+M05827,slow internet
+M05831,outage
+M05856,moving
+M05860,moving
+M05866,price
+M05873,praise
+M05885,slow internet
+M05891,slow internet
+M05901,competitor offer
+M05906,plan change
+M05913,plan change
+M05924,slow internet
+M05927,praise
+M06002,outage
+M06013,price
+M06069,price
+M06081,plan change
+M06102,price
+M06118,plan change
+M06127,outage
+M06157,plan change
+M06177,outage
+M06197,praise
+M06216,praise
+M06219,praise
+M06228,outage
+M06230,slow internet
+M06256,plan change
+M06261,slow internet
+M06264,setup
+M06267,setup
+M06269,price
+M06272,slow internet
+M06287,setup
+M06307,price
+M06324,price
+M06332,price
+M06363,outage
+M06367,praise
+M06376,price
+M06384,plan change
+M06400,competitor offer
+M06411,plan change
+M06418,outage
+M06429,slow internet
+M06441,price
+M06445,praise
+M06447,price
+M06451,price
+M06476,setup
+M06501,praise
+M06504,competitor offer
+M06514,slow internet
+M06590,slow internet
+M06613,price
+M06614,price
+M06693,outage
+M06705,competitor offer
+M06713,slow internet
+M06756,competitor offer
+M06773,outage
+M06781,moving
+M06790,setup
+M06807,competitor offer
+M06819,competitor offer
+M06820,competitor offer
+M06842,price
+M06843,competitor offer
+M06856,price
+M06865,price
+M06879,setup
+M06897,price
+M06910,setup
+M06940,outage
+M06960,price
+M07007,competitor offer
+M07038,praise
+M07090,slow internet
+M07121,outage
+M07123,setup
+M07136,price
+M07162,slow internet
+M07183,plan change
+M07206,competitor offer
+M07211,price
+M07216,slow internet
+M07217,setup
+M07222,setup
+M07302,competitor offer
+M07305,competitor offer
+M07340,outage
+M07351,outage
+M07361,price
+M07393,setup
+M07426,outage
+M07431,setup
+M07439,price
+M07449,competitor offer
+M07483,competitor offer
+M07514,price
+M07522,slow internet
+M07523,setup
+M07534,slow internet
+M07554,price
+M07659,slow internet
+M07681,price
+M07703,setup
+M07713,slow internet
+M07724,slow internet
+M07757,setup
+M07784,competitor offer
+M07853,setup
+M07888,competitor offer
+M07890,price
+M07893,plan change
+M07904,price
+M07907,plan change
+M07924,price
+M07933,praise
+M07949,competitor offer
+M07955,price
+M08028,slow internet
+M08051,competitor offer
+M08074,outage
+M08097,outage
+M08127,plan change
+M08141,setup
+M08233,setup
+M08242,competitor offer
+M08275,slow internet
+M08290,price
+M08315,outage
+M08320,plan change
+M08331,praise
+M08337,outage
+M08342,plan change
+M08366,slow internet
+M08370,price
+M08380,outage
+M08398,outage
+M08409,moving
+M08512,slow internet
+M08518,setup
+M08525,setup
+M08536,praise
+M08554,price
+M08621,slow internet
+M08642,plan change
+M08668,moving
+M08702,price
+M08743,praise
+M08774,competitor offer
+M08792,price
+M08801,price
+M08820,slow internet
+M08841,plan change
+M08875,slow internet
+M08886,price
+M08894,slow internet
+M08919,setup
+M08928,praise
+M08955,price
+M08979,setup
+M09007,price
+M09014,praise
+M09041,price
