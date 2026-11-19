@@ -1,0 +1,301 @@
+store_id,city,state,format,floor_m2,nse
+S000,Zacatecas,Zacatecas,super,1290,C
+S001,Monterrey,Nuevo León,super,1690,C+
+S002,Monterrey,Nuevo León,super,2020,C
+S003,Zacatecas,Zacatecas,express,340,D
+S004,Saltillo,Coahuila,hiper,6450,C
+S005,Saltillo,Coahuila,super,1970,C
+S006,Saltillo,Coahuila,express,350,AB
+S007,Acuña,Coahuila,super,2100,C+
+S008,Saltillo,Coahuila,super,1200,C
+S009,Torreón,Coahuila,super,1070,AB
+S010,Monterrey,Nuevo León,super,1800,C
+S011,Monterrey,Nuevo León,express,400,AB
+S012,Monclova,Coahuila,hiper,5810,C+
+S013,Torreón,Coahuila,super,1710,C
+S014,Torreón,Coahuila,express,450,C
+S015,Monterrey,Nuevo León,express,380,C+
+S016,Saltillo,Coahuila,super,1610,AB
+S017,Monterrey,Nuevo León,super,1980,D
+S018,Monterrey,Nuevo León,super,1780,C
+S019,Ramos Arizpe,Coahuila,express,420,C+
+S020,Zacatecas,Zacatecas,super,1900,C
+S021,Monclova,Coahuila,super,1960,C
+S022,Saltillo,Coahuila,express,340,AB
+S023,Monterrey,Nuevo León,express,340,C
+S024,Gómez Palacio,Durango,super,1410,C
+S025,Zacatecas,Zacatecas,super,1960,C+
+S026,Saltillo,Coahuila,super,1700,C+
+S027,Saltillo,Coahuila,express,360,C+
+S028,Monterrey,Nuevo León,hiper,5620,C+
+S029,Torreón,Coahuila,super,2040,AB
+S030,Torreón,Coahuila,super,1880,C+
+S031,Ramos Arizpe,Coahuila,express,350,C+
+S032,Nuevo Laredo,Tamaulipas,express,320,C
+S033,Ramos Arizpe,Coahuila,express,370,C+
+S034,Saltillo,Coahuila,super,1720,C
+S035,Saltillo,Coahuila,hiper,4980,AB
+S036,Monterrey,Nuevo León,super,1310,C+
+S037,Acuña,Coahuila,super,1510,AB
+S038,Monterrey,Nuevo León,super,1990,C
+S039,Monterrey,Nuevo León,super,1700,C
+S040,Saltillo,Coahuila,super,1410,C+
+S041,Saltillo,Coahuila,express,280,C
+S042,Acuña,Coahuila,super,1780,D
+S043,Gómez Palacio,Durango,express,310,C
+S044,Nuevo Laredo,Tamaulipas,express,260,C
+S045,Nuevo Laredo,Tamaulipas,super,1290,AB
+S046,Nuevo Laredo,Tamaulipas,super,1570,C
+S047,Saltillo,Coahuila,super,1460,C+
+S048,Piedras Negras,Coahuila,super,2120,C+
+S049,Nuevo Laredo,Tamaulipas,super,1490,AB
+S050,Saltillo,Coahuila,express,320,C+
+S051,Monterrey,Nuevo León,super,1870,C+
+S052,Monterrey,Nuevo León,super,1820,C+
+S053,Monterrey,Nuevo León,super,2020,D
+S054,Gómez Palacio,Durango,super,1670,C
+S055,Piedras Negras,Coahuila,express,430,D
+S056,Monclova,Coahuila,super,1550,D
+S057,Torreón,Coahuila,super,1740,C
+S058,Monclova,Coahuila,express,400,D
+S059,Saltillo,Coahuila,hiper,5330,C
+S060,Torreón,Coahuila,super,1540,C+
+S061,Saltillo,Coahuila,express,310,C
+S062,Monterrey,Nuevo León,hiper,5860,C+
+S063,Saltillo,Coahuila,super,2210,D
+S064,Monterrey,Nuevo León,express,310,C
+S065,Saltillo,Coahuila,express,320,D
+S066,Acuña,Coahuila,hiper,4580,D
+S067,Saltillo,Coahuila,hiper,5650,D
+S068,Torreón,Coahuila,express,340,AB
+S069,Monclova,Coahuila,express,370,AB
+S070,Monterrey,Nuevo León,hiper,4910,D
+S071,Saltillo,Coahuila,super,1610,C
+S072,Nuevo Laredo,Tamaulipas,super,1890,D
+S073,Torreón,Coahuila,express,270,AB
+S074,Zacatecas,Zacatecas,super,2110,C+
+S075,Saltillo,Coahuila,super,2080,C
+S076,Nuevo Laredo,Tamaulipas,super,1870,C+
+S077,Ramos Arizpe,Coahuila,super,1680,C+
+S078,Torreón,Coahuila,super,2330,C
+S079,Monterrey,Nuevo León,super,1860,C+
+S080,Saltillo,Coahuila,hiper,5840,C+
+S081,Monterrey,Nuevo León,super,1970,C+
+S082,Saltillo,Coahuila,super,2050,D
+S083,Torreón,Coahuila,super,2160,C
+S084,Ramos Arizpe,Coahuila,super,1710,D
+S085,Torreón,Coahuila,super,1680,C
+S086,Gómez Palacio,Durango,express,420,D
+S087,Monclova,Coahuila,express,320,AB
+S088,Torreón,Coahuila,hiper,6380,AB
+S089,Saltillo,Coahuila,super,1670,D
+S090,Piedras Negras,Coahuila,super,2030,AB
+S091,Saltillo,Coahuila,super,1920,C
+S092,Gómez Palacio,Durango,super,1760,C+
+S093,Monterrey,Nuevo León,hiper,5770,C
+S094,Saltillo,Coahuila,express,290,C
+S095,Piedras Negras,Coahuila,super,1720,C
+S096,Saltillo,Coahuila,super,1830,C
+S097,Saltillo,Coahuila,express,460,AB
+S098,Ramos Arizpe,Coahuila,express,400,C
+S099,Nuevo Laredo,Tamaulipas,express,390,D
+S100,Zacatecas,Zacatecas,express,410,C+
+S101,Zacatecas,Zacatecas,super,1930,C
+S102,Monterrey,Nuevo León,express,390,C+
+S103,Piedras Negras,Coahuila,super,2190,D
+S104,Saltillo,Coahuila,super,1810,C+
+S105,Nuevo Laredo,Tamaulipas,super,2290,D
+S106,Monclova,Coahuila,express,350,D
+S107,Torreón,Coahuila,hiper,5050,C+
+S108,Gómez Palacio,Durango,super,2000,C+
+S109,Monterrey,Nuevo León,express,190,C
+S110,Monterrey,Nuevo León,hiper,4940,C
+S111,Saltillo,Coahuila,super,1920,AB
+S112,Monterrey,Nuevo León,hiper,4540,C
+S113,Gómez Palacio,Durango,express,380,D
+S114,Zacatecas,Zacatecas,hiper,4570,C+
+S115,Monclova,Coahuila,express,330,C
+S116,Monterrey,Nuevo León,express,250,D
+S117,Gómez Palacio,Durango,express,310,C+
+S118,Monterrey,Nuevo León,super,1700,C+
+S119,Torreón,Coahuila,super,2060,C
+S120,Monterrey,Nuevo León,express,240,C
+S121,Saltillo,Coahuila,express,360,C
+S122,Zacatecas,Zacatecas,express,310,C+
+S123,Piedras Negras,Coahuila,express,340,D
+S124,Saltillo,Coahuila,express,430,AB
+S125,Torreón,Coahuila,express,330,C+
+S126,Torreón,Coahuila,express,310,C+
+S127,Saltillo,Coahuila,super,1080,AB
+S128,Gómez Palacio,Durango,super,2380,C
+S129,Monterrey,Nuevo León,super,1800,C+
+S130,Torreón,Coahuila,express,450,C
+S131,Monclova,Coahuila,express,360,D
+S132,Saltillo,Coahuila,express,330,C
+S133,Torreón,Coahuila,super,1300,C
+S134,Torreón,Coahuila,super,2040,C
+S135,Piedras Negras,Coahuila,super,1810,AB
+S136,Gómez Palacio,Durango,super,2000,C
+S137,Gómez Palacio,Durango,express,350,C+
+S138,Nuevo Laredo,Tamaulipas,super,1680,C+
+S139,Torreón,Coahuila,hiper,5420,C+
+S140,Torreón,Coahuila,hiper,4290,D
+S141,Torreón,Coahuila,super,1620,C
+S142,Ramos Arizpe,Coahuila,express,400,C
+S143,Monterrey,Nuevo León,super,1600,AB
+S144,Nuevo Laredo,Tamaulipas,express,390,C
+S145,Zacatecas,Zacatecas,express,290,C+
+S146,Monterrey,Nuevo León,express,460,C
+S147,Zacatecas,Zacatecas,super,1390,D
+S148,Torreón,Coahuila,super,1870,D
+S149,Saltillo,Coahuila,super,1780,C
+S150,Monterrey,Nuevo León,super,1610,C+
+S151,Monclova,Coahuila,express,390,AB
+S152,Torreón,Coahuila,hiper,6330,C
+S153,Monterrey,Nuevo León,hiper,5350,D
+S154,Acuña,Coahuila,express,350,C
+S155,Saltillo,Coahuila,express,330,D
+S156,Monterrey,Nuevo León,super,1410,AB
+S157,Piedras Negras,Coahuila,super,1960,C
+S158,Torreón,Coahuila,express,330,C
+S159,Saltillo,Coahuila,super,1640,AB
+S160,Monterrey,Nuevo León,super,1780,C+
+S161,Gómez Palacio,Durango,super,1720,D
+S162,Zacatecas,Zacatecas,super,2000,C+
+S163,Gómez Palacio,Durango,express,300,C
+S164,Monterrey,Nuevo León,express,450,D
+S165,Saltillo,Coahuila,super,1660,D
+S166,Monterrey,Nuevo León,super,1570,D
+S167,Monclova,Coahuila,hiper,5640,C+
+S168,Ramos Arizpe,Coahuila,super,1420,D
+S169,Torreón,Coahuila,express,350,C
+S170,Saltillo,Coahuila,super,1770,C+
+S171,Ramos Arizpe,Coahuila,express,340,C
+S172,Piedras Negras,Coahuila,super,1260,C
+S173,Saltillo,Coahuila,super,1610,C
+S174,Saltillo,Coahuila,express,360,C
+S175,Piedras Negras,Coahuila,express,310,C
+S176,Monclova,Coahuila,express,440,C
+S177,Acuña,Coahuila,super,1750,C+
+S178,Saltillo,Coahuila,super,1800,C
+S179,Monterrey,Nuevo León,super,2060,D
+S180,Acuña,Coahuila,hiper,5270,C
+S181,Monterrey,Nuevo León,super,1840,D
+S182,Gómez Palacio,Durango,super,1830,C
+S183,Torreón,Coahuila,super,1750,C+
+S184,Torreón,Coahuila,express,330,AB
+S185,Nuevo Laredo,Tamaulipas,express,270,C+
+S186,Monclova,Coahuila,express,340,AB
+S187,Piedras Negras,Coahuila,super,1950,D
+S188,Saltillo,Coahuila,express,310,AB
+S189,Torreón,Coahuila,express,380,C+
+S190,Torreón,Coahuila,super,1260,AB
+S191,Piedras Negras,Coahuila,express,360,C
+S192,Ramos Arizpe,Coahuila,super,2200,C+
+S193,Torreón,Coahuila,super,2240,C
+S194,Piedras Negras,Coahuila,super,2000,C
+S195,Saltillo,Coahuila,express,320,C
+S196,Ramos Arizpe,Coahuila,hiper,6620,AB
+S197,Monclova,Coahuila,hiper,6580,D
+S198,Acuña,Coahuila,express,420,C
+S199,Monterrey,Nuevo León,super,1500,C+
+S200,Acuña,Coahuila,super,1690,AB
+S201,Monclova,Coahuila,super,1210,D
+S202,Saltillo,Coahuila,super,1520,D
+S203,Monterrey,Nuevo León,super,2250,D
+S204,Saltillo,Coahuila,super,1690,C
+S205,Torreón,Coahuila,express,350,C
+S206,Monterrey,Nuevo León,express,290,C
+S207,Monterrey,Nuevo León,super,1960,C
+S208,Saltillo,Coahuila,express,340,D
+S209,Saltillo,Coahuila,express,440,C+
+S210,Acuña,Coahuila,express,330,C+
+S211,Monterrey,Nuevo León,hiper,6120,D
+S212,Torreón,Coahuila,express,310,D
+S213,Torreón,Coahuila,super,1620,D
+S214,Saltillo,Coahuila,express,420,D
+S215,Piedras Negras,Coahuila,express,410,AB
+S216,Piedras Negras,Coahuila,super,1600,C+
+S217,Zacatecas,Zacatecas,express,290,D
+S218,Saltillo,Coahuila,super,2070,AB
+S219,Monclova,Coahuila,express,350,C+
+S220,Saltillo,Coahuila,super,1960,C
+S221,Monterrey,Nuevo León,express,410,D
+S222,Nuevo Laredo,Tamaulipas,express,320,D
+S223,Saltillo,Coahuila,super,1660,C
+S224,Monclova,Coahuila,express,340,AB
+S225,Monterrey,Nuevo León,super,2290,D
+S226,Monterrey,Nuevo León,super,1580,C
+S227,Saltillo,Coahuila,super,1690,C+
+S228,Nuevo Laredo,Tamaulipas,express,420,C
+S229,Torreón,Coahuila,hiper,4120,D
+S230,Torreón,Coahuila,express,430,AB
+S231,Monclova,Coahuila,express,270,C
+S232,Saltillo,Coahuila,hiper,5450,C
+S233,Saltillo,Coahuila,super,1860,C
+S234,Monclova,Coahuila,super,2280,C+
+S235,Monterrey,Nuevo León,hiper,5250,C+
+S236,Torreón,Coahuila,express,460,C+
+S237,Nuevo Laredo,Tamaulipas,super,1960,C+
+S238,Torreón,Coahuila,super,2340,C
+S239,Monterrey,Nuevo León,super,1800,AB
+S240,Saltillo,Coahuila,hiper,4060,C
+S241,Saltillo,Coahuila,express,280,C
+S242,Piedras Negras,Coahuila,super,1900,C+
+S243,Monterrey,Nuevo León,express,410,AB
+S244,Monclova,Coahuila,express,320,C
+S245,Monterrey,Nuevo León,hiper,4690,C
+S246,Torreón,Coahuila,express,300,C
+S247,Nuevo Laredo,Tamaulipas,express,350,C
+S248,Nuevo Laredo,Tamaulipas,express,310,C
+S249,Saltillo,Coahuila,super,1530,C+
+S250,Saltillo,Coahuila,super,1760,C+
+S251,Gómez Palacio,Durango,express,210,D
+S252,Monclova,Coahuila,express,320,AB
+S253,Acuña,Coahuila,express,310,AB
+S254,Monterrey,Nuevo León,express,440,D
+S255,Nuevo Laredo,Tamaulipas,express,200,AB
+S256,Torreón,Coahuila,express,350,D
+S257,Monterrey,Nuevo León,super,1500,AB
+S258,Monclova,Coahuila,express,450,C
+S259,Nuevo Laredo,Tamaulipas,express,420,C+
+S260,Torreón,Coahuila,super,1740,C+
+S261,Saltillo,Coahuila,super,1720,C+
+S262,Monterrey,Nuevo León,super,1680,D
+S263,Saltillo,Coahuila,express,330,AB
+S264,Monterrey,Nuevo León,hiper,4670,C+
+S265,Piedras Negras,Coahuila,super,1630,C+
+S266,Monterrey,Nuevo León,express,430,AB
+S267,Saltillo,Coahuila,super,2070,C
+S268,Zacatecas,Zacatecas,express,250,AB
+S269,Ramos Arizpe,Coahuila,express,400,AB
+S270,Nuevo Laredo,Tamaulipas,hiper,5860,AB
+S271,Saltillo,Coahuila,hiper,6100,C
+S272,Gómez Palacio,Durango,express,330,C+
+S273,Nuevo Laredo,Tamaulipas,super,2240,D
+S274,Torreón,Coahuila,express,330,C+
+S275,Saltillo,Coahuila,express,310,C
+S276,Monterrey,Nuevo León,super,1520,C
+S277,Saltillo,Coahuila,express,350,C+
+S278,Torreón,Coahuila,express,340,C
+S279,Gómez Palacio,Durango,super,1520,AB
+S280,Monterrey,Nuevo León,hiper,5620,D
+S281,Monterrey,Nuevo León,super,1860,C
+S282,Gómez Palacio,Durango,hiper,6050,C+
+S283,Nuevo Laredo,Tamaulipas,express,260,D
+S284,Gómez Palacio,Durango,express,330,D
+S285,Monterrey,Nuevo León,super,2040,C
+S286,Nuevo Laredo,Tamaulipas,express,290,D
+S287,Gómez Palacio,Durango,super,2180,C+
+S288,Torreón,Coahuila,express,280,D
+S289,Zacatecas,Zacatecas,hiper,5060,C+
+S290,Saltillo,Coahuila,express,140,D
+S291,Nuevo Laredo,Tamaulipas,super,2230,AB
+S292,Saltillo,Coahuila,super,1910,D
+S293,Saltillo,Coahuila,super,1450,AB
+S294,Nuevo Laredo,Tamaulipas,super,1510,D
+S295,Acuña,Coahuila,express,380,AB
+S296,Zacatecas,Zacatecas,super,1330,C
+S297,Saltillo,Coahuila,express,440,D
+S298,Piedras Negras,Coahuila,super,1740,C+
+S299,Saltillo,Coahuila,hiper,4170,C
